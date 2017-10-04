@@ -1,0 +1,104 @@
+@import url('base.css');
+header{
+    width:100%;
+    height: 107px;
+    background: #1d1825;
+}
+.name{
+    width: 218px;
+    height:100%;
+    font-size: 38px;
+    text-align: center;
+    line-height: 107px;
+    color:#fff;
+    margin-left: 86px;
+    float: left;
+
+}
+.daohang{
+    width:776px;
+    height:23px;
+    float: left;
+    margin-left: 42px;
+    margin-top: 41px;
+}
+.daohang>li{
+    width: 80px;
+    height:23px;
+    float: left;
+    margin-right: 18px;
+    font-size: 16px;
+    line-height:16px;
+    color:#fff;
+}
+.daohang>li:last-child{
+    margin-right: 0;
+}
+.iconbox{
+    width:110px;
+    height:18px;
+    margin-top:42px;
+    margin-right:86px;
+    float: right;
+}
+.iconbox li{
+    color:#fff;
+    float: left;
+    margin-right: 28px;
+}
+.iconbox>li:last-child{
+    margin-right: 0;
+}
+/*banner开始*/
+.banner{
+    width: 100%;
+    height: 196px;
+    background: green;
+    margin-bottom: 50px;
+}
+/*banner结束*/
+/*技巧开始*/
+.jiqiao-box{
+    width: 1112px;
+    height: 1700px;
+    background: yellow;
+    margin:0 auto;
+}
+.jiqiao{
+    width: 100%;
+    height: 2100px;
+    background: green;
+}
+.jiqiao li{
+    width: 90%;
+    height:200px;
+    background: red;
+    margin:30px auto;
+}
+.tupian{
+    width: 30%;
+    height: 100%;
+    background: pink;
+    float:left;
+}
+.zhengwen{
+    width: 70%;
+    height: 100%;
+    background: blue;
+    float: right;
+    padding:10px;
+}
+.title{
+    display: block;
+    width: 100%;
+    height: 30%;
+    font-size: 20px;
+    color:#fff;
+}
+.neirong{
+    width: 100%;
+    height: 70%;
+    color:#fff;
+}
+/*技巧结束*/
+
